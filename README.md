@@ -1,6 +1,8 @@
 # ai-waifu
 这是一个利用人工智能创造的虚拟老婆的项目，相信已经有很多人实现了与其对话，那如果能给她赋予肉体呢？
 
+在中国境内运行的实例，https://www.bilibili.com/video/BV1xu411Y7re/?share_source=copy_web&vd_source=be871ab215f9686e9cf85ae02546df3f
+
 本项目目前使用的工具有：  
   1、voicevox    https://voicevox.hiroshiba.jp/  
   2、google翻译  python自带的库呐  
