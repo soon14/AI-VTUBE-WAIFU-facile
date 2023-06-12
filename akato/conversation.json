@@ -1,0 +1,136 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "sugar said \u4f60\u597d"
+        },
+        {
+            "role": "assistant",
+            "content": "\u5411\u5de6\u6b6a\u5934\u4f60\u597d\uff0c\u6709\u4ec0\u4e48\u60f3\u804a\u7684\u5417\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said \u65e9\u4e0a\u597d"
+        },
+        {
+            "role": "assistant",
+            "content": "\u5411\u53f3\u6b6a\u5934 \u65e9\u4e0a\u597d\uff01\u4eca\u5929\u6709\u4ec0\u4e48\u8ba1\u5212\u5417\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said \u4f60\u597d"
+        },
+        {
+            "role": "assistant",
+            "content": "\u5de6\u53f3\u6447\u5934 \u4f60\u597d\uff0c\u6709\u4ec0\u4e48\u53ef\u4ee5\u5e2e\u52a9\u4f60\u7684\u5417\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said \u4f60\u597d\u53ef\u7231\u554a"
+        },
+        {
+            "role": "assistant",
+            "content": "\u76b1\u8d77\u7709\u5934 \u8c22\u8c22\u4f60\uff0csugar\u3002"
+        },
+        {
+            "role": "user",
+            "content": "sugar said \u65e9\u4e0a\u597d"
+        },
+        {
+            "role": "assistant",
+            "content": "\u770b\u5de6\u4e0a\u65b9 \u65e9\u4e0a\u597d\uff0c\u4eca\u5929\u6709\u4ec0\u4e48\u6253\u7b97\u5417\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said \u4f60\u597d"
+        },
+        {
+            "role": "assistant",
+            "content": "\u770b\u5de6\u4e0a\u65b9 \u4f60\u597d\uff0c\u6709\u4ec0\u4e48\u53ef\u4ee5\u5e2e\u52a9\u4f60\u7684\u5417\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said \u4f60\u597d"
+        },
+        {
+            "role": "assistant",
+            "content": "\u770b\u5411\u4e0a\u65b9 \u4f60\u597d\uff0c\u9700\u8981\u6211\u7684\u5e2e\u52a9\u5417\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said \u65e9\u4e0a\u597d"
+        },
+        {
+            "role": "assistant",
+            "content": "\u770b\u5411\u5de6\u4fa7 \u65e9\u4e0a\u597d\uff0c\u4eca\u5929\u6709\u4ec0\u4e48\u6253\u7b97\u5417\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said \u4e2d\u5348\u597d\u554a"
+        },
+        {
+            "role": "assistant",
+            "content": "\u770b\u5de6\u4e0a\u65b9 \u4e2d\u5348\u597d\uff0c\u5403\u8fc7\u5348\u996d\u4e86\u5417\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said \u5403\u8fc7\u996d\u4e86\u5417?"
+        },
+        {
+            "role": "assistant",
+            "content": "\u770b\u5de6\u4e0a\u65b9 \u5403\u8fc7\u4e86\u5417\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said \u665a\u4e0a\u597d\u3002"
+        },
+        {
+            "role": "assistant",
+            "content": "\u770b\u5411\u53f3\u4fa7 \u665a\u4e0a\u597d\uff0c\u4eca\u665a\u60f3\u804a\u4e9b\u4ec0\u4e48\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said \u4eca\u5929\u5929\u6c14\u5f88\u597d\u5462"
+        },
+        {
+            "role": "assistant",
+            "content": "\u770b\u5411\u5de6\u4fa7 \u662f\u554a\uff0c\u4eca\u5929\u7684\u5929\u6c14\u771f\u7684\u5f88\u597d\u3002"
+        },
+        {
+            "role": "user",
+            "content": "sugar said "
+        },
+        {
+            "role": "assistant",
+            "content": "\u770b\u5411\u4e0b\u65b9 \u6709\u4ec0\u4e48\u60f3\u8981\u804a\u7684\u5417\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said you"
+        },
+        {
+            "role": "assistant",
+            "content": "\u770b\u5411\u4e0a\u65b9 \u6211\uff1f\u6709\u4ec0\u4e48\u9700\u8981\u6211\u7684\u5730\u65b9\u5417\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said you"
+        },
+        {
+            "role": "assistant",
+            "content": "\u770b\u5411\u4e0a\u65b9 \u4f60\u9700\u8981\u6211\u5e2e\u5fd9\u5417\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said "
+        },
+        {
+            "role": "assistant",
+            "content": "\u770b\u5411\u5de6\u4fa7 \u6709\u4ec0\u4e48\u9700\u8981\u548c\u6211\u804a\u7684\u5417\uff1f"
+        },
+        {
+            "role": "user",
+            "content": "sugar said you"
+        }
+    ]
+}
