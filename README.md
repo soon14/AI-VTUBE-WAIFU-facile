@@ -2,7 +2,7 @@
 这是一个利用人工智能创造的虚拟老婆的项目，相信已经有很多人实现了与其对话，那如果能给她赋予肉体呢？
 
 使用说明：  
-  讲你的openai api存放于config.py文件中  
+  将你的openai api存放于config.py文件中  
   安装所有需要的库，requiremen文件内还有缺失，需要自己安装一部分  
   运行程序前提前打开 voicevox（下载完后运行run.exe即可）  
   运行程序前提前打开 vtube studio（不用的话把协程启动注释了就行）  
