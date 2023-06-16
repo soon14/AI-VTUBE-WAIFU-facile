@@ -12,7 +12,7 @@
 ## 本项目目前使用的工具有：  
   1、voicevox    https://voicevox.hiroshiba.jp/  
   2、google翻译  python自带的库呐  
-  3、openai gpt3 这个不用多说了吧，去创建自己的api吧  
+  3、openai gpt3 这个不用多说了吧，去创建自己的api吧  https://platform.openai.com/account/api-keys
 
 
 ## 目前的项目只拥有一个雏形，只实现了以下功能：  
